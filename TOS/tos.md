@@ -46,7 +46,7 @@ You are not allowed to do forbidden actions such as cryptocurrency mining, hacki
 
 You are not allowed to resell our services or claim our services as yours. If you will do that, you will be terminated and you will no longer be able to use or receive services from us. This category do not take into enforce if you use reseller package(-s) (e.g. Reseller Website Hosting)
 
-**Downtime & Maintence
+**Downtime & Maintence**
 
 If we will do any Maintenance, we will make sure to post the scheduled maintenance times at our broadcast (discord server), in that time you agree about we have rights to make the maintenance till 48 hours and we have no right to refund you if the refund reason was maintenance.
 
