@@ -2,4 +2,28 @@
 
 **Legal Binding to our User Agreement**
 
-When You are registering at our website, you are agreeing about You are 13 years old or above, you consent privacy policy and agree to follow our User Agreement to avoid termination. Once you bind to our User Agreement, you must follow it till the account termination, deletion or writing notice to us about you no longer want to have an account in Cloudexis.
+When you are registering at our website, you are agreeing about You are 13 years old or above, you consent privacy policy and agree to follow our User Agreement to avoid termination. Once you bind to our User Agreement, you must follow it till the account termination, deletion or writing notice to us about you no longer want to have an account in Cloudexis.
+
+We have rights to suspend, terminate and do other actions to your account and services if You do not follow our User Agreement (Including Privacy Policy, Cookie Policy and Refund Policy).
+
+We have the right to cancel your User Agreement consent (by deleting account and services) at any time if we are believing we should do that. If it happens, we will refund the paid amount of the active services which you are currently using.
+
+**Laws**
+
+When you bind to our User Agreement, You will follow your state laws and our business state laws to comply with the best experience with our (Minnesota) laws and yours laws. If you provide any law which does not meet our User Agreement, we will forcefully change the User Agreement.
+
+**Agreement Change**
+
+We have rights to change the User Agreement and you must follow the new copy of User Agreement after 1 day of the publish. We will notify you about the new copy of User Agreement in our discord server announcement channel.
+
+**Cloudexis Account**
+
+To create a Cloudexis Account at our website, You must be 13 years or above.
+
+To purchase Cloudexis services, You must be 18 years or above however, you may purchase with your parent permission, please consult with your parents before purchasing.
+
+You take the liability on the Cloudexis. You must understand you will take liability if anyone made an action on your account or any other action which was made by another person - not you. If you detect that someone hacked your account or did any kind of action in your account, you must contact us within 2 days for a future solution.
+
+We have full rights to suspend, terminate or do any other action to your account if we count that is required to do.
+
+Your account must have valid details by a valid person (You) including email address, address and other information.
